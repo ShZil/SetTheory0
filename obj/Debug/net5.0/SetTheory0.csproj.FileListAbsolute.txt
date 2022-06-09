@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.exe
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.deps.json
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.runtimeconfig.json
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.runtimeconfig.dev.json
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.dll
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\ref\SetTheory0.dll
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\bin\Debug\net5.0\SetTheory0.pdb
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.AssemblyInfo.cs
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.dll
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\ref\SetTheory0.dll
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.pdb
+C:\Users\User\OneDrive\מסמכים\שקד\SetTheory0\SetTheory0\obj\Debug\net5.0\SetTheory0.genruntimeconfig.cache
